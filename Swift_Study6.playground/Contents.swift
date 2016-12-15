@@ -184,3 +184,17 @@ for i in 1...5 {
     
 }
 
+
+
+outer : for i in 1...5 {
+    
+    inner : for j in 1...9{
+        
+        if(j==3) {
+            break outer
+        }
+        
+        print("\(i)*\(j)=\(i*j)")
+    }
+}
+
