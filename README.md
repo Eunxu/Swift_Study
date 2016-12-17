@@ -19,3 +19,8 @@ http://blog.naver.com/createxu/220884964011
 Swift_Study6
 http://blog.naver.com/createxu/220886597614
 
+Swift_Study7
+http://blog.naver.com/createxu/220888586917  //Array
+http://blog.naver.com/createxu/220888596415  //Set
+
+Swift_Study8
